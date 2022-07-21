@@ -1,0 +1,40 @@
+body{
+    background-image: url(./image/840653818.0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.heading{
+    color: white;
+    text-align: center;
+    margin-top: 2.5em;
+    font-size: 45px;
+}
+
+.card-section{
+    margin-left: 200px;
+    align-items: center;
+    border: 2px solid white;
+    margin-top: 5em;
+    padding: 3rem;
+    border-radius: 50px;
+    color: white
+}
+
+#search_box{
+    border: none;
+    outline: none;
+    padding: 0.5em;
+    border-radius: 10px;
+}
+.search-button{
+    height: 3em;
+    width: 3em;
+    border-radius: 50%;
+    border: none;
+}
+
+.city{
+    margin-top: 20px;
+}
